@@ -265,9 +265,6 @@
       'ember-data/adapters/active-model': {
         'default': DS.ActiveModelAdapter
       },
-      'ember-data/serializers/json': {
-        'default': DS.JSONSerializer
-      },
       'ember-data/store': {
         'default': DS.Store
       },
